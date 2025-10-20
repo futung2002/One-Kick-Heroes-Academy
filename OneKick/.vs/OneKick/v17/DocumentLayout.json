@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shani\\OneDrive\\Desktop\\PRg282 Project\\OneKick\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A6E4C7-F703-41CC-B139-EA6831EF9640}|OneKick\\OneKick.csproj|c:\\users\\shani\\onedrive\\desktop\\prg282 project\\onekick\\onekick\\presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A6E4C7-F703-41CC-B139-EA6831EF9640}|OneKick\\OneKick.csproj|solutionrelative:onekick\\presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A6E4C7-F703-41CC-B139-EA6831EF9640}|OneKick\\OneKick.csproj|C:\\Users\\shani\\OneDrive\\Desktop\\PRg282 Project\\OneKick\\onekick\\presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5A6E4C7-F703-41CC-B139-EA6831EF9640}|OneKick\\OneKick.csproj|solutionrelative:onekick\\presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A6E4C7-F703-41CC-B139-EA6831EF9640}|OneKick\\OneKick.csproj|C:\\Users\\shani\\OneDrive\\Desktop\\PRg282 Project\\OneKick\\onekick\\datalayer\\herodataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A6E4C7-F703-41CC-B139-EA6831EF9640}|OneKick\\OneKick.csproj|solutionrelative:onekick\\datalayer\\herodataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A6E4C7-F703-41CC-B139-EA6831EF9640}|OneKick\\OneKick.csproj|C:\\Users\\shani\\OneDrive\\Desktop\\PRg282 Project\\OneKick\\onekick\\businesslogiclayer\\heromanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A6E4C7-F703-41CC-B139-EA6831EF9640}|OneKick\\OneKick.csproj|solutionrelative:onekick\\businesslogiclayer\\heromanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A6E4C7-F703-41CC-B139-EA6831EF9640}|OneKick\\OneKick.csproj|C:\\Users\\shani\\OneDrive\\Desktop\\PRg282 Project\\OneKick\\onekick\\businesslogiclayer\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A6E4C7-F703-41CC-B139-EA6831EF9640}|OneKick\\OneKick.csproj|solutionrelative:onekick\\businesslogiclayer\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\PRg282 Project\\OneKick\\OneKick\\BusinessLogicLayer\\Hero.cs",
+              "RelativeDocumentMoniker": "OneKick\\BusinessLogicLayer\\Hero.cs",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\PRg282 Project\\OneKick\\OneKick\\BusinessLogicLayer\\Hero.cs",
+              "RelativeToolTip": "OneKick\\BusinessLogicLayer\\Hero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T12:19:39.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HeroDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\PRg282 Project\\OneKick\\OneKick\\DataLayer\\HeroDataAccess.cs",
+              "RelativeDocumentMoniker": "OneKick\\DataLayer\\HeroDataAccess.cs",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\PRg282 Project\\OneKick\\OneKick\\DataLayer\\HeroDataAccess.cs",
+              "RelativeToolTip": "OneKick\\DataLayer\\HeroDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:46:54.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HeroManager.cs",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\PRg282 Project\\OneKick\\OneKick\\BusinessLogicLayer\\HeroManager.cs",
+              "RelativeDocumentMoniker": "OneKick\\BusinessLogicLayer\\HeroManager.cs",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\PRg282 Project\\OneKick\\OneKick\\BusinessLogicLayer\\HeroManager.cs",
+              "RelativeToolTip": "OneKick\\BusinessLogicLayer\\HeroManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:57:24.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\PRg282 Project\\OneKick\\OneKick\\PresentationLayer\\Form1.cs",
+              "RelativeDocumentMoniker": "OneKick\\PresentationLayer\\Form1.cs",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\PRg282 Project\\OneKick\\OneKick\\PresentationLayer\\Form1.cs",
+              "RelativeToolTip": "OneKick\\PresentationLayer\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:23:00.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\PRg282 Project\\OneKick\\OneKick\\PresentationLayer\\Form1.cs",
+              "RelativeDocumentMoniker": "OneKick\\PresentationLayer\\Form1.cs",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\PRg282 Project\\OneKick\\OneKick\\PresentationLayer\\Form1.cs [Design]",
+              "RelativeToolTip": "OneKick\\PresentationLayer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T10:33:43.473Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
