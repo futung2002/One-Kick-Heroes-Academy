@@ -1,0 +1,5 @@
+C:\Users\shani\OneDrive\Desktop\PRg282 Project\OneKick\OneKick\obj\Debug\OneKick.csproj.AssemblyReference.cache
+C:\Users\shani\OneDrive\Desktop\PRg282 Project\OneKick\OneKick\obj\Debug\OneKick.Form1.resources
+C:\Users\shani\OneDrive\Desktop\PRg282 Project\OneKick\OneKick\obj\Debug\OneKick.Properties.Resources.resources
+C:\Users\shani\OneDrive\Desktop\PRg282 Project\OneKick\OneKick\obj\Debug\OneKick.csproj.GenerateResource.cache
+C:\Users\shani\OneDrive\Desktop\PRg282 Project\OneKick\OneKick\obj\Debug\OneKick.csproj.CoreCompileInputs.cache
